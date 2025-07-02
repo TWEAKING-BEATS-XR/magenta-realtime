@@ -1,0 +1,17 @@
+android {
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "com.example.myapp"
+        minSdkVersion 21
+        targetSdkVersion 33
+        // ... more configurations
+    } // <- This is a closing brace for defaultConfig
+} // <- This is a closing brace for androidandroid {
+compileSdkVersion 33
+defaultConfig {
+    applicationId "com.example.myapp"
+    minSdkVersion 21
+    targetSdkVersion 33
+    // ... more configurations
+} // <- This is a closing brace for defaultConfig
+} // <- This is a closing brace for android
